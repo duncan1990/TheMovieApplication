@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">The Movie Application</string>
+    <string name="searchBar_hint">Search...</string>
+    <string name="most_populars">Most Populars</string>
+    <string name="lorem">Lorem impsum, Lorem impsum,Lorem impsum,Lorem impsum,Lorem impsum,Lorem impsum,Lorem impsum,</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="movies">Movies</string>
+    <string name="people">People</string>
+    <string name="tv">Tv</string>
+    <string name="not_found">Not Found...</string>
+    <string name="summary">Summary</string>
+    <string name="videos">Videos</string>
+    <string name="cast">Cast</string>
+    <string name="biography">Biography</string>
+    <string name="tvs">TVs</string>
+</resources>
